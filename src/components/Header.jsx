@@ -1,4 +1,3 @@
-/* import logo from 'https://attic.sh/o0xorl1u1v9cnelqyscs9c8vtyr4'; */
 import "./Header.css";
 
 export default function Header() {
